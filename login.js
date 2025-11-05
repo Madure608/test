@@ -530,6 +530,10 @@ function initLoginPage() {
     }
 }
 
+
+
+
+
 // Export functions for use in other modules (if using ES6 modules)
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = { initLoginPage };
